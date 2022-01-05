@@ -1,6 +1,6 @@
 [colors]
-	background = "#2a2517"
-	foreground = "#fffcfd"
+	background = "#23202e"
+	foreground = "#fffffd"
 
 [global]
     ### Display ###
@@ -8,7 +8,7 @@
     monitor = 0
     follow = mouse
 
-    geometry = "300x5-10+10"
+    geometry = "540x5-10+32"
     indicate_hidden = yes
     shrink = yes
     transparency = 0
@@ -16,15 +16,15 @@
     separator_height = 3
     padding = 12
     horizontal_padding = 12
-    frame_width = 3
+    frame_width = 6
 
-    frame_color = "#5b5147"
+    frame_color = "#575745"
     separator_color = auto
     sort = yes
     idle_threshold = 120
 
     ### Text ###
-    font = Iosevka 11
+    font = iosevka 11
     line_height = 0
 
     markup = full
@@ -88,5 +88,5 @@
 [urgency_critical]
     background = colors.background
     foreground = colors.foreground
-    frame_color = "#ca9b7f"
+    frame_color = "#755842"
     timeout = 0

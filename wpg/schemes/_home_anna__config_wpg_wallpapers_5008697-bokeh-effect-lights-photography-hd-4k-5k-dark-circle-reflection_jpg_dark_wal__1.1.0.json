@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/5008697-bokeh-effect-lights-photography-hd-4k-5k-dark-circle-reflection.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b1b",
+        "foreground": "#ff0247",
+        "cursor": "#ff0247"
+    },
+    "colors": {
+        "color0": "#1b1b1b",
+        "color1": "#FE001E",
+        "color2": "#1E4342",
+        "color3": "#85212E",
+        "color4": "#214140",
+        "color5": "#df778c",
+        "color6": "#8F092B",
+        "color7": "#B0022B",
+        "color8": "#343434",
+        "color9": "#ff0127",
+        "color10": "#205d5b",
+        "color11": "#b72033",
+        "color12": "#245a59",
+        "color13": "#ff84a8",
+        "color14": "#c30132",
+        "color15": "#ff0247"
+    }
+}

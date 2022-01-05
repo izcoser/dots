@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/aesthetic.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#f2cff6",
+        "foreground": "#010101",
+        "cursor": "#010101"
+    },
+    "colors": {
+        "color0": "#f2cff6",
+        "color1": "#D861E7",
+        "color2": "#EB70F5",
+        "color3": "#EC95FF",
+        "color4": "#B756CA",
+        "color5": "#CA52D9",
+        "color6": "#D987EB",
+        "color7": "#1d012a",
+        "color8": "#d7b8da",
+        "color9": "#ad27be",
+        "color10": "#be2fca",
+        "color11": "#bb45d5",
+        "color12": "#9023a6",
+        "color13": "#a11fb1",
+        "color14": "#ac3ec4",
+        "color15": "#010101"
+    }
+}

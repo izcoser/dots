@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/lel.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19120f",
+        "foreground": "#ffffef",
+        "cursor": "#ffffef"
+    },
+    "colors": {
+        "color0": "#19120f",
+        "color1": "#DF9F6C",
+        "color2": "#A2AA8E",
+        "color3": "#E5AF59",
+        "color4": "#EFD7AD",
+        "color5": "#D4B799",
+        "color6": "#B5BAA3",
+        "color7": "#f6f0d9",
+        "color8": "#382821",
+        "color9": "#ffcc76",
+        "color10": "#dbf1a4",
+        "color11": "#ffe85e",
+        "color12": "#ffffbc",
+        "color13": "#ffeeaf",
+        "color14": "#f8ffbd",
+        "color15": "#ffffef"
+    }
+}

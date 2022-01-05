@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/hassediagram.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f191f",
+        "foreground": "#fffff7",
+        "cursor": "#fffff7"
+    },
+    "colors": {
+        "color0": "#0f191f",
+        "color1": "#D0DBBD",
+        "color2": "#8E8F8F",
+        "color3": "#BBC3AD",
+        "color4": "#D0D0D0",
+        "color5": "#AFAFAF",
+        "color6": "#98AD9F",
+        "color7": "#e5eadc",
+        "color8": "#1e3441",
+        "color9": "#ffffd2",
+        "color10": "#a6cccc",
+        "color11": "#f9ffc9",
+        "color12": "#ffe5e5",
+        "color13": "#facccc",
+        "color14": "#b0f5c7",
+        "color15": "#fffff7"
+    }
+}

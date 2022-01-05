@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/JoNHc6K.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110405",
+        "foreground": "#ffffe2",
+        "cursor": "#ffffe2"
+    },
+    "colors": {
+        "color0": "#110405",
+        "color1": "#AC4F24",
+        "color2": "#AD674B",
+        "color3": "#ED9C59",
+        "color4": "#CC682D",
+        "color5": "#F0B688",
+        "color6": "#E48F47",
+        "color7": "#f5dfc4",
+        "color8": "#3b0b0f",
+        "color9": "#ed6121",
+        "color10": "#f17e51",
+        "color11": "#ffc85e",
+        "color12": "#ff832a",
+        "color13": "#ffe998",
+        "color14": "#ffb848",
+        "color15": "#ffffe2"
+    }
+}

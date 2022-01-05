@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/Lr4Dupb.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090708",
+        "foreground": "#fffff3",
+        "cursor": "#fffff3"
+    },
+    "colors": {
+        "color0": "#090708",
+        "color1": "#A76934",
+        "color2": "#7E8255",
+        "color3": "#CAA15B",
+        "color4": "#6D6843",
+        "color5": "#F4E09C",
+        "color6": "#966430",
+        "color7": "#f5f4e0",
+        "color8": "#251c21",
+        "color9": "#e78735",
+        "color10": "#afb660",
+        "color11": "#ffd663",
+        "color12": "#998f4b",
+        "color13": "#ffffad",
+        "color14": "#cf8231",
+        "color15": "#fffff3"
+    }
+}

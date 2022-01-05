@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/samoeraap.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#3b1f2d",
+        "foreground": "#e2ffff",
+        "cursor": "#e2ffff"
+    },
+    "colors": {
+        "color0": "#3b1f2d",
+        "color1": "#75C2B7",
+        "color2": "#4B978F",
+        "color3": "#72B5AE",
+        "color4": "#329BA2",
+        "color5": "#5E9C98",
+        "color6": "#5EC1BB",
+        "color7": "#b2ded8",
+        "color8": "#5b3046",
+        "color9": "#83fffc",
+        "color10": "#52d2c5",
+        "color11": "#81fef1",
+        "color12": "#33d5e0",
+        "color13": "#69dbd3",
+        "color14": "#67ffff",
+        "color15": "#e2ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/lwTMVDP.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0200",
+        "foreground": "#f3fff8",
+        "cursor": "#f3fff8"
+    },
+    "colors": {
+        "color0": "#0F0200",
+        "color1": "#CE2C05",
+        "color2": "#788E86",
+        "color3": "#AF906C",
+        "color4": "#AB1C05",
+        "color5": "#B66029",
+        "color6": "#9FC9AD",
+        "color7": "#c7d9cb",
+        "color8": "#400901",
+        "color9": "#ff3501",
+        "color10": "#8bc9b2",
+        "color11": "#f5bc7a",
+        "color12": "#e32001",
+        "color13": "#fb7926",
+        "color14": "#b7ffd9",
+        "color15": "#f3fff8"
+    }
+}

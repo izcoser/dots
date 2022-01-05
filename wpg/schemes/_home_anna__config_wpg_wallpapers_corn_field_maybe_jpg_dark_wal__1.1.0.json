@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/corn_field_maybe.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#cad4d8",
+        "foreground": "#010101",
+        "cursor": "#010101"
+    },
+    "colors": {
+        "color0": "#cad4d8",
+        "color1": "#92AAB3",
+        "color2": "#6596A8",
+        "color3": "#869CA1",
+        "color4": "#507D8F",
+        "color5": "#A7B7BB",
+        "color6": "#3D88A3",
+        "color7": "#041205",
+        "color8": "#b1babe",
+        "color9": "#4a8399",
+        "color10": "#2f738c",
+        "color11": "#447d8a",
+        "color12": "#245f77",
+        "color13": "#5692a1",
+        "color14": "#176885",
+        "color15": "#010101"
+    }
+}

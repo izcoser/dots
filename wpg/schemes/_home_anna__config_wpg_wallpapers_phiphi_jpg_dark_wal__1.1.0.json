@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/phiphi.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a211f",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#0a211f",
+        "color1": "#658D90",
+        "color2": "#507885",
+        "color3": "#BABDC3",
+        "color4": "#3A7382",
+        "color5": "#9FA2A5",
+        "color6": "#338B86",
+        "color7": "#dedcdd",
+        "color8": "#144843",
+        "color9": "#73c4cb",
+        "color10": "#5aa3ba",
+        "color11": "#d9edff",
+        "color12": "#3f9cb5",
+        "color13": "#b9d2eb",
+        "color14": "#35c1b9",
+        "color15": "#fffdff"
+    }
+}

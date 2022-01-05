@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/MvR3vpn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081310",
+        "foreground": "#f7ffff",
+        "cursor": "#f7ffff"
+    },
+    "colors": {
+        "color0": "#081310",
+        "color1": "#A7BCC4",
+        "color2": "#9DB7C1",
+        "color3": "#A0A8A9",
+        "color4": "#6A929B",
+        "color5": "#C1BEBF",
+        "color6": "#8EACB5",
+        "color7": "#d0d8dc",
+        "color8": "#16372e",
+        "color9": "#c1feff",
+        "color10": "#b5f7ff",
+        "color11": "#baeaf0",
+        "color12": "#78c8da",
+        "color13": "#ffdef0",
+        "color14": "#a3eaff",
+        "color15": "#f7ffff"
+    }
+}

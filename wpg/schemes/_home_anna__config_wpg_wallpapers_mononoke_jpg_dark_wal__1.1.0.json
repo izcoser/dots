@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/mononoke.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080C08",
+        "foreground": "#d9ffff",
+        "cursor": "#d9ffff"
+    },
+    "colors": {
+        "color0": "#080C08",
+        "color1": "#546969",
+        "color2": "#2C4C4E",
+        "color3": "#283B47",
+        "color4": "#346A90",
+        "color5": "#285467",
+        "color6": "#6C8579",
+        "color7": "#a4c3cf",
+        "color8": "#1b2a1b",
+        "color9": "#609494",
+        "color10": "#31696d",
+        "color11": "#2c4e63",
+        "color12": "#368cc7",
+        "color13": "#2a708f",
+        "color14": "#7cbc9d",
+        "color15": "#d9ffff"
+    }
+}

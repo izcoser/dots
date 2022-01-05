@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/bunnysound.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110237",
+        "foreground": "#ffd6ff",
+        "cursor": "#ffd6ff"
+    },
+    "colors": {
+        "color0": "#110237",
+        "color1": "#9D4BC2",
+        "color2": "#C160DF",
+        "color3": "#C05FDE",
+        "color4": "#9145B8",
+        "color5": "#D169EB",
+        "color6": "#AE55D0",
+        "color7": "#ebb2f5",
+        "color8": "#1f0268",
+        "color9": "#d24fff",
+        "color10": "#ff68ff",
+        "color11": "#ff66ff",
+        "color12": "#c149ff",
+        "color13": "#ff72ff",
+        "color14": "#ea5bff",
+        "color15": "#ffd6ff"
+    }
+}

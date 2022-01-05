@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/yakui.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#36153c",
+        "foreground": "#b0ffff",
+        "cursor": "#b0ffff"
+    },
+    "colors": {
+        "color0": "#36153c",
+        "color1": "#9C119D",
+        "color2": "#199D60",
+        "color3": "#ADAD19",
+        "color4": "#333C97",
+        "color5": "#AE36A3",
+        "color6": "#65199B",
+        "color7": "#82c9cf",
+        "color8": "#572161",
+        "color9": "#d60ad7",
+        "color10": "#14d87d",
+        "color11": "#eded13",
+        "color12": "#3543d1",
+        "color13": "#f137e0",
+        "color14": "#8514d5",
+        "color15": "#b0ffff"
+    }
+}

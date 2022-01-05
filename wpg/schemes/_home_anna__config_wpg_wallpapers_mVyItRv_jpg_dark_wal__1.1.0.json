@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/mVyItRv.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#fffff5",
+        "cursor": "#fffff5"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#C4BCAA",
+        "color2": "#DBD6C1",
+        "color3": "#AF9F8A",
+        "color4": "#ECDABA",
+        "color5": "#AEAEAB",
+        "color6": "#CCCABA",
+        "color7": "#e9e5d9",
+        "color8": "#191919",
+        "color9": "#fffdc5",
+        "color10": "#ffffd5",
+        "color11": "#f7d19f",
+        "color12": "#ffffc7",
+        "color13": "#f8f8c7",
+        "color14": "#ffffd8",
+        "color15": "#fffff5"
+    }
+}

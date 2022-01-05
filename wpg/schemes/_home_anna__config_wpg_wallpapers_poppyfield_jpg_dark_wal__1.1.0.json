@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/poppyfield.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080506",
+        "foreground": "#ffd8af",
+        "cursor": "#ffd8af"
+    },
+    "colors": {
+        "color0": "#080506",
+        "color1": "#EA0705",
+        "color2": "#AF0505",
+        "color3": "#DE2C1B",
+        "color4": "#8F0506",
+        "color5": "#A02825",
+        "color6": "#D00404",
+        "color7": "#dfa283",
+        "color8": "#27171c",
+        "color9": "#ff0301",
+        "color10": "#e90101",
+        "color11": "#ff2b12",
+        "color12": "#bf0102",
+        "color13": "#dc2723",
+        "color14": "#ff0101",
+        "color15": "#ffd8af"
+    }
+}

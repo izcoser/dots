@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/wallhaven-95dd9x.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#011208",
+        "foreground": "#fffff8",
+        "cursor": "#fffff8"
+    },
+    "colors": {
+        "color0": "#011208",
+        "color1": "#A78E6C",
+        "color2": "#9AD3C9",
+        "color3": "#C6AF6C",
+        "color4": "#E4D7B1",
+        "color5": "#B5A896",
+        "color6": "#76BDBC",
+        "color7": "#e5eade",
+        "color8": "#01441c",
+        "color9": "#eabb7a",
+        "color10": "#b0ffff",
+        "color11": "#ffed78",
+        "color12": "#ffffc5",
+        "color13": "#ffddad",
+        "color14": "#85ffff",
+        "color15": "#fffff8"
+    }
+}

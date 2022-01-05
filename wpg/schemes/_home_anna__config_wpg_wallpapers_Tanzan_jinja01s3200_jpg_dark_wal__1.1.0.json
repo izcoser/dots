@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/Tanzan_jinja01s3200.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0905",
+        "foreground": "#fffdfd",
+        "cursor": "#fffdfd"
+    },
+    "colors": {
+        "color0": "#0c0905",
+        "color1": "#B04B24",
+        "color2": "#976F52",
+        "color3": "#B18E63",
+        "color4": "#867A82",
+        "color5": "#B6A99D",
+        "color6": "#975828",
+        "color7": "#e3e1e1",
+        "color8": "#302312",
+        "color9": "#f25b20",
+        "color10": "#d38d5b",
+        "color11": "#f8ba6e",
+        "color12": "#be8eae",
+        "color13": "#ffdab6",
+        "color14": "#d07027",
+        "color15": "#fffdfd"
+    }
+}

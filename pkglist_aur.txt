@@ -1,0 +1,10 @@
+cbonsai-git
+flat-remix
+fontpreview
+la-capitaine-icon-theme
+neo-matrix-git
+numix-themes-electric
+paru
+sxiv-rifle
+ttf-iosevka
+tty-clock

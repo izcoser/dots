@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/roses.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0C06",
+        "foreground": "#ffc6c1",
+        "cursor": "#ffc6c1"
+    },
+    "colors": {
+        "color0": "#0C0C06",
+        "color1": "#54472A",
+        "color2": "#555648",
+        "color3": "#4A4933",
+        "color4": "#69695D",
+        "color5": "#4B3723",
+        "color6": "#3D4131",
+        "color7": "#bf928e",
+        "color8": "#2e2e15",
+        "color9": "#755f2e",
+        "color10": "#777953",
+        "color11": "#68663a",
+        "color12": "#95956c",
+        "color13": "#684726",
+        "color14": "#525b38",
+        "color15": "#ffc6c1"
+    }
+}

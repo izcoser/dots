@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/snowynippon.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#041616",
+        "foreground": "#f7ffff",
+        "cursor": "#f7ffff"
+    },
+    "colors": {
+        "color0": "#041616",
+        "color1": "#6B949E",
+        "color2": "#515E5A",
+        "color3": "#ABCFD3",
+        "color4": "#59787D",
+        "color5": "#A7CCD1",
+        "color6": "#90B4BA",
+        "color7": "#d9e5e7",
+        "color8": "#0a4141",
+        "color9": "#79cade",
+        "color10": "#5e8579",
+        "color11": "#c5ffff",
+        "color12": "#65a6b0",
+        "color13": "#c0ffff",
+        "color14": "#a5f9ff",
+        "color15": "#f7ffff"
+    }
+}

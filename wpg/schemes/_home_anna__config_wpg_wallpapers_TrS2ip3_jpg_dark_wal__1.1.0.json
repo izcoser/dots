@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/TrS2ip3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181007",
+        "foreground": "#fffcf4",
+        "cursor": "#fffcf4"
+    },
+    "colors": {
+        "color0": "#181007",
+        "color1": "#887356",
+        "color2": "#89796D",
+        "color3": "#CB9E6C",
+        "color4": "#7F7D80",
+        "color5": "#A68D74",
+        "color6": "#958575",
+        "color7": "#c9c1bb",
+        "color8": "#3f2911",
+        "color9": "#bf9761",
+        "color10": "#c29b7d",
+        "color11": "#ffce78",
+        "color12": "#aa92b6",
+        "color13": "#eab784",
+        "color14": "#d2ac86",
+        "color15": "#fffcf4"
+    }
+}

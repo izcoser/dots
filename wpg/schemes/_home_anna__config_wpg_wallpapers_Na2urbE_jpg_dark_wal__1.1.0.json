@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/Na2urbE.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0D0C",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#0F0D0C",
+        "color1": "#EC6522",
+        "color2": "#778E57",
+        "color3": "#C8A949",
+        "color4": "#476498",
+        "color5": "#C0BBA5",
+        "color6": "#A9624D",
+        "color7": "#eae7e1",
+        "color8": "#2b2522",
+        "color9": "#ff7d1a",
+        "color10": "#9dc762",
+        "color11": "#ffe44d",
+        "color12": "#4d7dd4",
+        "color13": "#ffffbf",
+        "color14": "#eb7654",
+        "color15": "#fffff9"
+    }
+}

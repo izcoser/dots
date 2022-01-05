@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/Snatcher.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1612",
+        "foreground": "#fffff0",
+        "cursor": "#fffff0"
+    },
+    "colors": {
+        "color0": "#1d1612",
+        "color1": "#E93943",
+        "color2": "#AD897A",
+        "color3": "#E8A594",
+        "color4": "#DB867A",
+        "color5": "#E75858",
+        "color6": "#AF9F8D",
+        "color7": "#ecdfd2",
+        "color8": "#3c2d24",
+        "color9": "#ff3746",
+        "color10": "#f4aa8b",
+        "color11": "#ffc7a7",
+        "color12": "#ff9d88",
+        "color13": "#ff5d5d",
+        "color14": "#f7cfa2",
+        "color15": "#fffff0"
+    }
+}

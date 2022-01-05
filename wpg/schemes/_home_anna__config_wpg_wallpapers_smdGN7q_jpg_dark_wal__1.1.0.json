@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anna/.config/wpg/wallpapers/smdGN7q.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c150f",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#1c150f",
+        "color1": "#8F704C",
+        "color2": "#708F7C",
+        "color3": "#C8A860",
+        "color4": "#9E906C",
+        "color5": "#B0A88B",
+        "color6": "#C7BB98",
+        "color7": "#dbd9c6",
+        "color8": "#3c2d20",
+        "color9": "#c89254",
+        "color10": "#81ca9d",
+        "color11": "#ffe169",
+        "color12": "#dec27b",
+        "color13": "#f9e5a0",
+        "color14": "#fffeae",
+        "color15": "#fffff2"
+    }
+}

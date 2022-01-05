@@ -26,3 +26,5 @@ setxkbmap br
 dunst &
 $HOME/.config/wpg/wp_init.sh &
 $HOME/.config/bspwm/bspwm_colors.sh &
+
+startup_programs &
