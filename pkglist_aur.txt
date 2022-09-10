@@ -1,10 +1,14 @@
 cbonsai-git
 flat-remix
 fontpreview
+inxi
 la-capitaine-icon-theme
 neo-matrix-git
+nestopia
 numix-themes-electric
 paru
+python-selenium
 sxiv-rifle
 ttf-iosevka
 tty-clock
+zramswap

@@ -15,6 +15,8 @@ cmus
 code
 croc
 dmenu
+docker
+docker-compose
 dunst
 efibootmgr
 fakeroot
@@ -44,6 +46,8 @@ gzip
 htop
 i3lock
 imagemagick
+inetutils
+jre11-openjdk-headless
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-freetype2
@@ -64,7 +68,6 @@ neofetch
 networkmanager
 ngspice
 nitrogen
-nnn
 noto-fonts
 ntfs-3g
 os-prober
@@ -78,7 +81,6 @@ pulseaudio
 python-beautifulsoup4
 python-numpy
 python-pip
-python-selenium
 qtox
 ranger
 redshift
@@ -98,8 +100,10 @@ thunar
 thunar-archive-plugin
 tldr
 tlp
+tmux
 tor
 transmission-gtk
+tree
 ttc-iosevka
 ttf-fantasque-sans-mono
 ttf-liberation

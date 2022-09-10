@@ -1,5 +1,5 @@
 #!/bin/bash
-
+shopt -s extglob
 cp ~/.bashrc .
 cp ~/.bash_profile .
 cp ~/.Xresources .
@@ -8,11 +8,12 @@ cp -a ~/.config/dunst .
 cp -a ~/.config/sxhkd .
 cp -a ~/.config/ranger .
 cp -a ~/.config/wal .
-cp -a ~/.config/wpg .
+mkdir -p ./wpg && cp -a ~/.config/wpg/!(schemes|wallpapers) ./wpg
 cp -a ~/.config/rofi .
 cp -a ~/.config/picom .
 cp -a ~/.vimrc .
-install -D ~/.local/bin/lock .local/bin/lock
+mkdir -p .vim && cp -a ~/.vim/!(plugged|black) ./.vim
+mkdir -p .local/bin/ && cp ~/.local/bin/lock .local/bin/lock
 
 pacman -Qqen > pkglist.txt
 pacman -Qqem > pkglist_aur.txt

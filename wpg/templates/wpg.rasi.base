@@ -71,7 +71,7 @@ message {{
 }}
 
 textbox {{
-    highlight:  @highlight;
+    highlight:  @color14;
     text-color: @color15;
 }}
 
@@ -80,7 +80,7 @@ listview {{
     padding:      2px 0 0;
     border-color: @separatorcolor;
     spacing:      0px;
-    scrollbar:    @scrollbar;
+    scrollbar:    @color14;
 }}
 
 element {{
